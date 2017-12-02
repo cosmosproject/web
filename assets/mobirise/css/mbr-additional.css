@@ -1252,9 +1252,9 @@ body {
   min-height: 100vh;
 }
 .cid-qA2nbaahQN {
-  padding-top: 105px;
-  padding-bottom: 45px;
-  background-image: url("../../../assets/images/mbr-1623x1080.jpg");
+  /*padding-top: 80px;
+  padding-bottom: 20px; :*/
+  background-image: url("../../../assets/images/background.jpg");
 }
 .cid-qA2nbaahQN .mbr-text,
 .cid-qA2nbaahQN .mbr-section-btn {
